@@ -9,7 +9,7 @@ local Config = {
 
     -- [3] Scripts & Links
     -- AQUI DEBES PONER EL LINK AL ARCHIVO RAW DEL PASO 1 (TU AIMBOT OFUSCADO)
-    MainScriptURL   = "https://raw.githubusercontent.com/JOSERAX11/MVSDUELSSCRIPT/refs/heads/main/main.lua", 
+    MainScriptURL   = "https://raw.githubusercontent.com/JOSERAX11/MVSDUELSSCRIPT/refs/heads/main/RysHubScript", 
     
     -- [4] Social Media Settings
     ShowDiscord     = false,
@@ -23,7 +23,7 @@ local Config = {
     KeyFileName     = "MVS_Duels_Key.txt", 
 
     -- [6] GUI Management
-    OldGuiName      = "OYB_KeySystem", 
+    OldGuiName      = "DASHBOARD_KeySystem", 
     MainGuiName     = "🎯 External Aimbot Menu", -- Nombre exacto de tu ventana de Rayfield
 
     -- [7] Hub Information & UI Text
